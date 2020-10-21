@@ -7,5 +7,5 @@ _April--May 2020_
 
 ---
 Code to solve the non-dimensional Navier-Stokes equations with buoyancy effects.
-Refer to [jtoumey.github.io/projects](jtoumey.github.io/projects) for a description and some results.
+Refer to [jtoumey.github.io/projects](https://jtoumey.github.io/projects) for a description and some results.
 
