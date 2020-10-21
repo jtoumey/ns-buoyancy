@@ -6,3 +6,7 @@
 
 # Data files
 *.dat
+
+
+# macOs files
+*.DS_Store
